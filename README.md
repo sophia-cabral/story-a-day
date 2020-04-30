@@ -23,7 +23,7 @@
 
     <!-- Favicon
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-    <link rel="icon" type="image/png" href="images/favicon.png">
+    <link rel="icon" type="image/jpeg" href="sophia cabral_headshot.jpeg">
     <style>
 
         #lottie {
